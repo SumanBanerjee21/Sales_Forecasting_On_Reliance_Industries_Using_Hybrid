@@ -57,8 +57,8 @@ Final Hybrid Forecast
 **Objective:** Capture long‑term trend & low‑frequency movement.
 
 **Architecture:**
-- LSTM Layer — 50 Units — return_sequences=True
-- LSTM Layer — 50 Units — return_sequences=False
+- LSTM Layer — 64 Units — return_sequences=True
+- LSTM Layer — 64 Units — return_sequences=False
 - Dense Output Layer — 1 Unit
 
 **Configuration:**
